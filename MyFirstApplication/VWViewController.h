@@ -10,4 +10,10 @@
 
 @interface VWViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UILabel *titleLabel;
+
+@property (strong, nonatomic) IBOutlet UITextField *textField;
+
+- (IBAction)buttonPressed:(id)sender;
+
 @end

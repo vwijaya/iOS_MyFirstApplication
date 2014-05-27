@@ -21,6 +21,7 @@
 		0925DAEB18D93A4F00C887E8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0925DACD18D93A4F00C887E8 /* UIKit.framework */; };
 		0925DAF318D93A4F00C887E8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0925DAF118D93A4F00C887E8 /* InfoPlist.strings */; };
 		0925DAF518D93A4F00C887E8 /* MyFirstApplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0925DAF418D93A4F00C887E8 /* MyFirstApplicationTests.m */; };
+		0925DAFF18D955A000C887E8 /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0925DAFE18D955A000C887E8 /* images-2.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0925DAF018D93A4F00C887E8 /* MyFirstApplicationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstApplicationTests-Info.plist"; sourceTree = "<group>"; };
 		0925DAF218D93A4F00C887E8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0925DAF418D93A4F00C887E8 /* MyFirstApplicationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplicationTests.m; sourceTree = "<group>"; };
+		0925DAFE18D955A000C887E8 /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		0925DAD018D93A4F00C887E8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0925DAFE18D955A000C887E8 /* images-2.jpeg */,
 				0925DAD118D93A4F00C887E8 /* MyFirstApplication-Info.plist */,
 				0925DAD218D93A4F00C887E8 /* InfoPlist.strings */,
 				0925DAD518D93A4F00C887E8 /* main.m */,
@@ -231,6 +234,7 @@
 			files = (
 				0925DAE218D93A4F00C887E8 /* Images.xcassets in Resources */,
 				0925DAD418D93A4F00C887E8 /* InfoPlist.strings in Resources */,
+				0925DAFF18D955A000C887E8 /* images-2.jpeg in Resources */,
 				0925DADD18D93A4F00C887E8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
